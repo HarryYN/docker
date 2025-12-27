@@ -1,0 +1,22 @@
+# 数据科学与机器学习核心
+numpy
+pandas
+scikit-learn
+scipy
+
+# 统计与可视化
+statsmodels
+matplotlib
+seaborn
+plotly
+
+# Python 后端开发 (以 FastAPI 为例，MLE 常用于部署模型 API)
+fastapi
+uvicorn[standard]
+pydantic
+requests
+python-multipart
+
+# 生产力工具
+jupyter
+ipykernel
